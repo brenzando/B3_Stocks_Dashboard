@@ -62,7 +62,7 @@ The application enables investors and analysts to monitor individual stock perfo
 
 1. **Clone or download the project**
    ```bash
-   cd Dash_Mercado_Financeiro
+   cd B3_Stocks_Dashboard
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -98,7 +98,7 @@ The application enables investors and analysts to monitor individual stock perfo
 ## Project Structure
 
 ```
-Dash_Mercado_Financeiro/
+B3_Stocks_Dashboard/
 ├── streamlit_app.py          # Main application entry point
 ├── services.py               # Business logic and data processing functions
 ├── config.py                 # Configuration settings and stock lists
