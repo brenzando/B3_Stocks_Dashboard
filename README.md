@@ -6,6 +6,9 @@ The **B3 Stocks Dashboard** is a comprehensive web-based application for analyzi
 
 The application enables investors and analysts to monitor individual stock performance, analyze historical statistics, and conduct portfolio comparisons with detailed visualizations including price charts, correlation heatmaps, and volatility metrics.
 
+<img src="image/B3_Stocks_Dashboard.png">
+<img src="image/B3_Stocks_Dashboard_2.png">
+
 ---
 
 ## Features
